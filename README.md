@@ -1,8 +1,8 @@
 ---
 description: >-
-  dragondrop is a tool for detecting and automatically generating the code
-  needed to bring cloud resources into Terraform control. It is self-hosted
-  within your cloud environment.
+  dragondrop.cloud is a tool for automatically detecting and generating code to
+  bring cloud resources into Terraform control. It is self-hosted within your
+  cloud environment.
 ---
 
 # Welcome

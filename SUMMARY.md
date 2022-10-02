@@ -13,6 +13,7 @@
 * [Job Output](getting-started/job-output.md)
 * [Setting Up CI/CD](getting-started/setting-up-ci-cd.md)
 * [Supported Tech Stack](getting-started/supported-tech-stack.md)
+* [Schedule a Demo](getting-started/schedule-a-demo.md)
 
 ## Deploying To Your Cloud
 
