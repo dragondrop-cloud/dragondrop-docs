@@ -26,4 +26,4 @@ Each dragondrop Job performs the following steps:
 
 6\) Open a pull request within your Version Control System (VCS) with the recommended changes, as well as a visual summary of the out-of-Terraform resources.
 
-7\) Developer makes final approval, `plan` and `apply` recommend changes. All changes to your code best require developer approval.
+7\) Developer makes final approval, `plan` and `apply` recommend changes. All changes to your code base require developer approval.
