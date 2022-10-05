@@ -6,15 +6,15 @@ description: Defensive practices for trust and security at every step.
 
 When dealing with information about your cloud posture, as well as Terraform State files, security needs to be at the forefront. That is why dragondrop has engineered security and trust into every step of bringing your cloud into code.
 
-### No information on your current state ever leaves your existing tool set.
+### No information on your current state every leaves your existing tool set.
 
 * dragondrop is a container that is self-hosted by all customers within their cloud.
 * No information about your cloud posture or Terraform state ever touches our servers.
 * After container execution, all visualizations and identified new resources are exposed through a pull request within your existing VCS.
 
-### dragondrop container only requires read-only permissions for your cloud environment.
+### dragondrop container only should be given read-only permissions for your cloud environment.
 
-When generating service principals for dragondrop to be able to complete the requisite cloud scanning, read-only permissions are required.
+When generating service principals for dragondrop to be able to complete the requisite cloud scanning, read-only permissions should be granted.
 
 ### Changes are recommended via Pull Request, never made directly.
 
