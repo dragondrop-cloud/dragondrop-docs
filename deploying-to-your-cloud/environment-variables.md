@@ -22,7 +22,7 @@ description: >-
     * A division for AWS is an account name, for Azure is a resource group, and for GCP is a project.
     * Provider names must match the Terraform provider name (aws, azurern, google, etc.).
   * **Structure**: "{divisionName1}:{provider1},...,{divisionNameN}:{provider1}"
-  * **Example**: "my-aws-project:aws,my-gcp-project:google"
+  * **Example**: "my-aws-project:aws,my-gcp-project:=google"
 
 `DRAGONDROP_DivisionCloudCredentials`
 
@@ -58,7 +58,7 @@ description: >-
 
 * **Description**: Full URL of the code repository within the specified VCS System where recommended changes will be placed via Pull Request.
   * Currently only GitHub-hosted repositories are supported.
-* **Example**: "https://github.com/my-organization"
+* **Example**: "https://github.com/my-organization/my-repo"
 
 `DRAGONDROP_VCSBaseBranch`
 
@@ -69,7 +69,7 @@ description: >-
 
 `DRAGONDROP_VCSToken`
 
-* **Description**: Personal access token for the VCS provider specified. Allows the containerized executable to interact with the VCS provider to open a pull request containing new users and changes.
+* **Description**: Personal access token for the VCS provider specified. Allows the containerized executable to interact with the VCS provider to open a pull request containing new resources and needed migrations.
   * For GitHub, should only be provided "Repo" permissions.
 * **Example**: "ghp\_my-github-access-token"
 
@@ -92,7 +92,7 @@ description: >-
 * **Description**: Map between Terraform Workspace name and the relative directory within the code repository where that workspace is defined via Terraform.
 * **Structure**: "{workSpace1}:/{relativeDirPath1},...,{workspaceN}:/{relativeDirPathN}"
   * Each relative directory must start with a backslash and end without a backlash.
-* **Example**: "workspace-1:/path/to/workspace-one,workspace-2:/path/to/workspace-two"
+* **Example**: "workspace-1:/path/to/workspace-one/,workspace-2:/path/to/workspace-two/"
 
 `DRAGONDROP_MigrationHistoryStorage`
 
