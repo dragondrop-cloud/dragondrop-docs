@@ -12,12 +12,8 @@ The first provisioned Job is and will always be forever free to use for all cust
 
 #### A-la-carte Jobs
 
-$15 / month per provisioned Job. Email based, 48-hour customer support.
+$50 / month per provisioned Job. Email based, 48-hour customer support.
 
-#### Pro Jobs
+#### Enterprise Jobs
 
-$25 / month per provisioned Job. These jobs include an SLA, and email and phone-based, same-day response customer support.
-
-#### Enterprise Plan
-
-Have a lot of Jobs to provision? Need a dedicated technical representative? Want access to Professional Services from our cloud certified engineers? Have other requirements? [Let's talk](https://docs.google.com/forms/d/e/1FAIpQLScmkBLK1Bs63MlcSQXMzey5HoHX\_QS4r0APMI-BcGwIruBK6A/viewform?usp=pp\_url)!
+Starting at $75 / month per provisioned Job. These jobs include an SLA, and email and phone-based, same-day response customer support from a dedicated technical representative. Enterprise customers can also access our professional services and bulk-rate discounts. [Let's talk](https://docs.google.com/forms/d/e/1FAIpQLScmkBLK1Bs63MlcSQXMzey5HoHX\_QS4r0APMI-BcGwIruBK6A/viewform?usp=pp\_url)!
