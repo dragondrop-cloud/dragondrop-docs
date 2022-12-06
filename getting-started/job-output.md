@@ -1,6 +1,6 @@
 # Job Output
 
-Note that "external resource" refers to a cloud resource that is is outside of Terraform control but living within your public cloud.
+Note that "external resource" refers to a cloud resource that is outside of Terraform control but living within your public cloud.
 
 ### New Terraform Code for External Resources
 
