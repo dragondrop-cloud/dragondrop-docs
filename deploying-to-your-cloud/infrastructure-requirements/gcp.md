@@ -6,6 +6,8 @@ description: >-
 
 # GCP
 
+<figure><img src="../../.gitbook/assets/2023-01-18 GCP Module Infrastructure.png" alt=""><figcaption><p>Our Terraform module for GCP infrastructure will get you spun up with a secure, serverless hosting of dragondrop in minutes. </p></figcaption></figure>
+
 ## Terraform Module
 
 We recommend using our [Terraform Module](https://registry.terraform.io/modules/dragondrop-cloud/dragondrop-compute/google/latest) to host dragondrop within your cloud.
