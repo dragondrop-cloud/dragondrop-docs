@@ -5,12 +5,14 @@
 ## Getting Started
 
 * [How dragondrop Works](getting-started/how-dragondrop-works.md)
-* [🔒 Security](getting-started/security.md)
 * [Signing Up](getting-started/signing-up.md)
+* [🔒 Security](getting-started/security.md)
 * [Hosted in Your Cloud](getting-started/hosted-in-your-cloud.md)
-* [Creating a Job](getting-started/creating-a-job.md)
-* [Running a Job](getting-started/running-a-job.md)
-* [Job Output](getting-started/job-output.md)
+* [Jobs](getting-started/jobs/README.md)
+  * [What is a Job?](getting-started/jobs/what-is-a-job.md)
+  * [Creating a Job](getting-started/jobs/creating-a-job.md)
+  * [Running a Job](getting-started/jobs/running-a-job.md)
+  * [Job Output](getting-started/jobs/job-output.md)
 * [Setting Up CI/CD](getting-started/setting-up-ci-cd.md)
 * [Supported Tech Stack](getting-started/supported-tech-stack.md)
 * [Schedule a Demo](getting-started/schedule-a-demo.md)

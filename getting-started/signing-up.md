@@ -1,3 +1,11 @@
+---
+description: How to get started today
+---
+
 # Signing Up
 
-Right now we are currently running a closed Beta. If interested in signing up or learning, please sign-up [here](https://docs.google.com/forms/d/e/1FAIpQLSfShTDuihjMIaiJpNwxxWXSxCTGxIuDusdXO89VxDpwRem3UQ/viewform?usp=pp\_url\&entry.810055=Yes), and we will be in touch shortly.&#x20;
+&#x20;You can sign up for free, with no credit card, at [app.dragondrop.cloud](https://app.dragondrop.cloud).
+
+Account creation is performed through 0Auth authentication with your version control system (VCS); a work email must be associated with the VCS account that you register with.
+
+Currently, we only support GitHub as a Version Control System.

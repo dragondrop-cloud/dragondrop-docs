@@ -1,6 +1,6 @@
 # GCP
 
-We provide coverage of the following Terraform resources within GCP. If there are resources that you think would be most valuable for us to support, please get in touch!
+We currently provide coverage of the following Terraform resources within GCP. If there are resources that you think would be most valuable for us to support, please get in touch!
 
 ### Covered GCP Terraform Resources
 
@@ -104,4 +104,5 @@ google_storage_bucket_acl
 google_storage_bucket_iam_member
 google_storage_bucket_iam_policy
 google_storage_default_object_acl
-google_storage_notification</code></pre>
+google_storage_notification
+</code></pre>

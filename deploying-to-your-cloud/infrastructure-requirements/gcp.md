@@ -24,4 +24,4 @@ Our recommended approach:
 
 2\) Define an HTTPS endpoint that triggers the Cloud Run Job from 1) when a POST request is sent to it.
 
-3\) Provide the API endpoint to your dragondrop [job definition](../../getting-started/creating-a-job.md). Done!
+3\) Provide the API endpoint to your dragondrop [job definition](../../getting-started/jobs/creating-a-job.md). Done!
