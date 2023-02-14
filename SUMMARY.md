@@ -10,6 +10,7 @@
 * [Hosted in Your Cloud](getting-started/hosted-in-your-cloud.md)
 * [Jobs](getting-started/jobs/README.md)
   * [What is a Job?](getting-started/jobs/what-is-a-job.md)
+  * [How Many Jobs Should We Use?](getting-started/jobs/how-many-jobs-should-we-use.md)
   * [Creating a Job](getting-started/jobs/creating-a-job.md)
   * [Running a Job](getting-started/jobs/running-a-job.md)
   * [Job Output](getting-started/jobs/job-output.md)
