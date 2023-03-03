@@ -80,13 +80,6 @@ description: >-
 
 ### Pull Request Env Vars
 
-`DRAGONDROP_RELATIVEDIRECTORYMARKDOWN`
-
-* **Description**: Relative directory within the code repository to which the markdown visualizations will be saved.
-* **Structure**: "/{relativeDir1}/.../{relativeDirN}"
-  * Must start with a backslash and end without a backslash
-* **Example**: "/where/to/output/markdown/directory"
-
 `DRAGONDROP_WORKSPACETODIRECTORY`
 
 * **Description**: Map between Terraform Workspace name and the relative directory within the code repository where that workspace is defined via Terraform.
