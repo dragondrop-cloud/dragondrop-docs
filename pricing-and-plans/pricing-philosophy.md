@@ -24,4 +24,4 @@ Lastly, the number of Jobs you want to configure is easily visible within the we
 
 Each Job can only open pull requests within a single code repository. So one way to segment Jobs is by the number of Terraform repositories maintained within your organization.
 
-Otherwise, often times it makes sense to segment Jobs by cloud provider. So one Job can be hosted within AWS and scan that cloud, while another Job may be hosted within Azure and scan that cloud environment.
+Otherwise, often times it makes sense to segment Jobs by logic division within your cloud. For some organizations, these means by AWS account, development environment (Dev, Prod, etc.) or even by application infrastructure.
