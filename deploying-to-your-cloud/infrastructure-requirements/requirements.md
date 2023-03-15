@@ -14,4 +14,4 @@ description: What is needed to run dragondrop in your cloud?
 
 For supported public clouds, we provide open-sourced Terraform Modules which provision the requisite infrastructure needed to receive https requests which trigger the dragondrop.cloud container hosted on serverless compute.
 
-This let's you get up and running in your cloud as quickly as you can run `terraform apply!`
+This let's you get up and running in your cloud as quickly as you can run `terraform apply`!

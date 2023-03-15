@@ -22,6 +22,7 @@
 
 * [Infrastructure Requirements](deploying-to-your-cloud/infrastructure-requirements/README.md)
   * [Requirements](deploying-to-your-cloud/infrastructure-requirements/requirements.md)
+  * [AWS](deploying-to-your-cloud/infrastructure-requirements/aws.md)
   * [GCP](deploying-to-your-cloud/infrastructure-requirements/gcp.md)
 * [Environment Variables](deploying-to-your-cloud/environment-variables.md)
 * [FAQs](deploying-to-your-cloud/faqs.md)
