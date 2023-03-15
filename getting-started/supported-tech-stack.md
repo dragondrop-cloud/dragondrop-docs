@@ -6,11 +6,11 @@ description: What tech stacks we currently support, and what we plan on supporti
 
 ### Public Cloud Provider
 
-We currently support identifying and importing resources from GCP, and plan on supporting AWS and Azure soon. We will continue to add support for resource coverage for all major cloud providers over time.
+We currently support identifying and importing resources from AWS and GCP, and plan on supporting Azure soon. We will continue to add support for resource coverage for all major cloud providers over time.
 
-* AWS _(coming soon_)
-* Azure _(coming soon)_
+* AWS
 * GCP
+* Azure _(coming soon)_
 
 ### Version Control System (VCS)
 
@@ -21,11 +21,7 @@ Future plans include support for GitLab and Bitbucket.
 ### Terraform Remote State Backends
 
 * Terraform Cloud
-* S3 _(coming soon)_
+* S3 _(Alpha testing)_
 * Azure Cloud Storage _(coming soon)_
-
-### Messaging Service
-
+* Google Cloud Storage _(coming soon)_
 * Slack
-
-Future plans include support for Microsoft Teams.
