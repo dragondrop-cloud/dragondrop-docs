@@ -12,7 +12,7 @@ Each identified external resource has Terraform code generated for it and placed
 
 Each identified external resource also has a matching state migration statement to import cloud resources generated within the Pull Request. This allows you to store all resource imports as code within your VCS instead of running state migration commands arbitrarily and without record through the CLI.
 
-<figure><img src="../../.gitbook/assets/20221001_migration_statements_pr.png" alt=""><figcaption><p>Automated PR from dragondrop, example of generated migration statements to import external resources.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/20230315_migration_import_statement_output.png" alt=""><figcaption><p>Automated PR from dragondrop, example of generated migration statements to import external resources.</p></figcaption></figure>
 
 ### State of Cloud Report and Cloud Actor Identification
 
