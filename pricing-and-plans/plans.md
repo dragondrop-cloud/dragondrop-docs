@@ -16,4 +16,4 @@ $50 / month per provisioned Job. Email based, 48-hour customer support.
 
 #### Enterprise Jobs
 
-Starting at $75 / month per provisioned Job. These jobs include an SLA, and email and phone-based, same-day response customer support from a dedicated technical representative. Enterprise customers can also access our professional services and bulk-rate discounts. [Let's talk](https://docs.google.com/forms/d/e/1FAIpQLScmkBLK1Bs63MlcSQXMzey5HoHX\_QS4r0APMI-BcGwIruBK6A/viewform?usp=pp\_url)!
+Starting at $75 / month per provisioned Job. These jobs include an SLA, and same-day response customer support through either Slack, Email or Phone. Enterprise customers can also access our professional services and bulk-rate discounts. [Let's talk](https://calendly.com/d/zyh-3c8-yyh/demo-of-dragondrop-cloud)!
