@@ -2,7 +2,7 @@
 
 ### Does information on my cloud posture touch dragondrop servers?
 
-No. Since dragondrop is hosted within your cloud, no information about your Cloud Posture or Terraform state ever touches our servers. All information stays within your existing cloud environment and Version control system.
+No. Since dragondrop is hosted within your cloud, no information about your Cloud Posture or Terraform state ever touches our servers. All information stays within your existing cloud environment and version control system.
 
 ### Can I validate environment variable formats outside of the executable container?
 
