@@ -24,4 +24,3 @@ Future plans include support for GitLab and Bitbucket.
 * S3 _(Alpha testing)_
 * Azure Cloud Storage _(coming soon)_
 * Google Cloud Storage _(coming soon)_
-* Slack
