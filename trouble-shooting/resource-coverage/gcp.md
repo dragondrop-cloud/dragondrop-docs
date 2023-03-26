@@ -4,7 +4,7 @@ We currently provide coverage of the following Terraform resources within GCP. I
 
 ### Covered GCP Terraform Resources
 
-<pre class="language-markdown"><code class="lang-markdown"><strong>google_bigquery_dataset
+<pre><code><strong>google_bigquery_dataset
 </strong>google_bigquery_table
 
 google_cloud_scheduler_job
