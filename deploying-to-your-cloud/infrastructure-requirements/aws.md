@@ -1,6 +1,6 @@
 ---
 description: >-
-  Learn about our recommended Infrastructure set up within your AWS cloud
+  Learn about our recommended infrastructure set up within your AWS cloud
   environment.
 ---
 
@@ -10,11 +10,11 @@ description: >-
 
 ## Terraform Module
 
-We recommend using our [Terraform Module](https://registry.terraform.io/modules/dragondrop-cloud/dragondrop-compute/aws/latest) to host dragondrop within your AWS environment.
+We strongly recommend using our [Terraform Module](https://registry.terraform.io/modules/dragondrop-cloud/dragondrop-compute/aws/latest) to host dragondrop within your AWS environment.
 
-It creates all of infrastructure illustrated in the above diagram, with locked-down, permissions on each piece of compute, outputting an HTTPS request to which our web application can send requests to trigger your Job. All you need to do is fill in environment variables on the needed for the Cloud Run Job, and then cloud infrastructure for that Job is complete!
+It creates all of infrastructure illustrated in the above diagram, with locked-down permissions on each piece of compute, outputting an HTTPS request to which our web application can send requests to trigger your Job. All you need to do is fill in environment variables on the needed for the Cloud Run Job, and then cloud infrastructure for that Job is complete!
 
-Using our Terraform module, we estimate that most Jobs can be **deployed within your cloud environment from scratch in less than \~45 minutes of developer time**.
+Using our Terraform module, we estimate that Jobs can be **deployed within your cloud environment from scratch in less than 45 minutes of developer time**.
 
 ### Building Your Own Hosting Infrastructure in AWS
 

@@ -8,7 +8,7 @@ When dealing with information about your cloud posture, as well as Terraform Sta
 
 <figure><img src="../.gitbook/assets/2023-02-03 Engineered for Security.png" alt=""><figcaption><p>The dragondrop.cloud workflow is engineered for security and trust at every step</p></figcaption></figure>
 
-### (1) No information on your current state ever leaves your existing tool set.
+### (1) No information on your cloud posture ever leaves your existing tool set.
 
 * dragondrop is a container that is self-hosted by all customers within their cloud.
 * No information about your cloud posture or Terraform state ever touches our servers.
