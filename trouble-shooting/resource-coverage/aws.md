@@ -1,3 +1,10 @@
+---
+description: >-
+  We currently provide coverage of the following Terraform resources within GCP.
+  If there are resources that you think would be most valuable for us to
+  support, please get in touch!
+---
+
 # AWS
 
 ```
