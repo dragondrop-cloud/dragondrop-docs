@@ -1,5 +1,9 @@
 # FAQs
 
+### How long does it take to self host dragondrop?
+
+With our provided [open-source Terraform modules](https://registry.terraform.io/namespaces/dragondrop-cloud), you can spin up the required infrastructure in minutes. Configuring the six needed environment variables via secrets in your cloud can take less than 15 minuts. We conservatively estimate that the first Job in an organization will take less than 45 minutes in total for a complete self-hosting.
+
 ### Does information on my cloud touch dragondrop servers?
 
 No. Since dragondrop is hosted within your cloud, no information about your Cloud Posture or Terraform state ever touches our servers. All information stays within your existing cloud environment and version control system.
