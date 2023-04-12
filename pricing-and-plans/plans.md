@@ -16,8 +16,8 @@ $50 / month per provisioned Job. Email based, 48-hour customer support.
 
 #### Enterprise Jobs
 
-Starting at $75 / month per provisioned Job. These jobs include an SLA, and same-day response customer support through either Slack, Email or Phone. Enterprise customers can also access our professional services and bulk-rate discounts. [Let's talk](https://calendly.com/d/zyh-3c8-yyh/demo-of-dragondrop-cloud)!
+These jobs include an SLA, and same-day response customer support through either Slack, Email or Phone. Enterprise customers can also access our professional services and bulk-rate discounts. [Let's talk](https://calendly.com/d/zyh-3c8-yyh/demo-of-dragondrop-cloud)!
 
 **Annual Billing Rates**
 
-Annual billing is available, starting at $500 / year per a-la-carte job and $750 / year for Enterprise Jobs.
+Annual billing is available, starting at $500 / year per a-la-carte job. For annual enterprise plans, [let's talk](https://calendly.com/d/zyh-3c8-yyh/demo-of-dragondrop-cloud)!

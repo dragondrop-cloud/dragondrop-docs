@@ -19,3 +19,9 @@ Each identified external resource also has a matching state migration statement 
 Each Pull Request outputs via a PR comment a "State of Cloud Report" which provides a high level summary of the drifted and new-to-Terraform resources identified by dragondrop. It also outputs a summary of the Cloud Actors that made changes outside of your Terraform workflow, allowing you to close the loop on Terraform drift.
 
 <figure><img src="../../.gitbook/assets/20230315_cloud_actor_screen_shot.png" alt=""><figcaption><p>Surfaced Cloud Actors responsible for changes outside of Terraform control.</p></figcaption></figure>
+
+### Resource Cost Calculations
+
+Within the State of Cloud Report, as well as for individual resources, dragondrop provides detailed cost calculations. Provides users a single pane for their cloud costs (both controlled by Terraform and uncontrolled) within a Pull Request. Cost calculations are powered by a native [Infracost](https://github.com/infracost/infracost) integration.
+
+<figure><img src="../../.gitbook/assets/20230411 Monthly Cost Breakdown.png" alt=""><figcaption><p>Keep all cloud information in one place with cloud cost estimation built into every dragondrop Job execution.</p></figcaption></figure>
