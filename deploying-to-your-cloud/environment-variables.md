@@ -15,6 +15,14 @@ description: >-
   * Go to "Jobs" page in the web application. Select "Details" for the Job of interest, and copy the token displayed.
 * **Example**: "my-dragondrop-job-token"
 
+### Cost Calculation Tokens Job Env Vars
+
+`DRAGONDROP_INFRACOSTAPITOKEN`
+
+* **Description**: Registered Infracost API token. Can be either hosted or self hosted.
+  * Docs on Infracost API token registration can be found [here](https://github.com/infracost/cloud-pricing-api).
+* **Example**: "my-infracost-api-token"
+
 ### Scanning Your Cloud Env Vars
 
 * `DRAGONDROP_DIVISIONTOPROVIDER`
@@ -32,40 +40,7 @@ description: >-
 * **Structure**: "{google-divisionName1}:{serviceAccount1}"
 * **Example**: "my-gcp-project:{service account secret key}"
 
-`DRAGONDROP_PROVIDERS`
-
-* **Description**: Mapping between the name of Terraform providers, and the version of the providers desired.
-  * Provider names must match the Terraform provider name (aws, azurern, google, etc.).
-* **Structure**: "{provider1}:{version1},...,{providerN}:{versionN}"
-* **Example**: "aws:\~>4.3.0,google:=4.27.0"
-
-`DRAGONDROP_TERRAFORMVERSION`
-
-* **Description**: String for the version of Terraform to use for importing resources.
-  * Must be a valid version of Terraform.
-* **Structure**: "{terraformVersion}"
-* **Example**: "1.2.4"
-
 ### Version Control System (VCS) Env Vars&#x20;
-
-`DRAGONDROP_VCSSYSTEM`
-
-* **Description**: Name of the VCS used, all lowercase.
-  * Currently only GitHub is supported.
-* **Example**: "github"
-
-`DRAGONDROP_VCSREPO`
-
-* **Description**: Full URL of the code repository within the specified VCS System where recommended changes will be placed via Pull Request.
-  * Currently only GitHub-hosted repositories are supported.
-* **Example**: "https://github.com/my-organization/my-repo"
-
-`DRAGONDROP_VCSBASEBRANCH`
-
-* **Description**: Name of the base branch to clone from the VCS Repo. Pull requests are opened to merge into this base branch
-  * Should be a stable branch that will not be removed. We recommend using "develop" or the equivalent.
-* **Structure**: "{branch name}"
-* **Example**: "develop"
 
 `DRAGONDROP_VCSTOKEN`
 
@@ -87,25 +62,7 @@ description: >-
   * Each relative directory must start with a backslash and end without a backlash.
 * **Example**: "workspace-1:/path/to/workspace-one/,workspace-2:/path/to/workspace-two/"
 
-`DRAGONDROP_MIGRATIONHISTORYSTORAGE`
-
-* **Description**: JSON object containing information on where migration history data should be stored.
-* **Structure**: {"storageType": \["gcs"|"s3"], "bucket": {bucketName}, "region": {my-region\}}
-  * Currently only Google Cloud Storage (gcs) or (s3) are supported as stores of migration histories.
-* **Example**: {"storageType": "s3", "bucket": "my-migration-history-bucket", "region": "us-east1"}
-
 ### Terraform Cloud Env Vars
-
-`DRAGONDROP_STATEBACKEND`
-
-* **Description**: Name of the remote state backend management system.
-  * Currently only `TerraformCloud` is supported.
-* **Example**: "TerraformCloud"
-
-`DRAGONDROP_TERRAFORMCLOUDORGANIZATION`
-
-* **Description**: Name of the Terraform Cloud Organization where workspaces are located.
-* **Example**: "my-tf-cloud-org"
 
 `DRAGONDROP_TERRAFORMCLOUDTOKEN`
 
