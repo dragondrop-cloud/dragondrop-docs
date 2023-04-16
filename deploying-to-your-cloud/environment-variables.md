@@ -1,6 +1,6 @@
 ---
 description: >-
-  Because no information about your cloud touches dragondrop servers, job
+  Because no sensitive data touches dragondrop servers, sensitive job
   parameterization occurs through environment variables attached to the compute
   running the dragondrop container.
 ---
