@@ -64,6 +64,6 @@ description: >-
 
 `DRAGONDROP_TERRAFORMCLOUDTOKEN`
 
-* **Description**: Name of the Terraform Cloud Organization where workspaces are located.
+* **Description**: Terraform cloud team token for accessing remote workspaces.
   * Should be a Terraform Cloud Team Token.
 * **Example**: "my-tf-cloud-team token"
