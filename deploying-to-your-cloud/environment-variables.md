@@ -36,9 +36,12 @@ description: >-
 
 * **Description**: Mapping between the name of a division of a public cloud provider and the corresponding read-only credential.
   * A division for AWS is an account name, for Azure is a resource group, and for GCP is a project.
+  * _AWS_: A service account credentials key map of the format {awsAccessKeyID: "", awsSecretAccessKey:""}
   * _Google_: A service account key with new-lines and tabs removed.
 * **Structure**: "{google-divisionName1}:{serviceAccount1}"
-* **Example**: "my-gcp-project:{service account secret key}"
+*   **Example**: my-gcp-project:{service account secret key},my-aws-account:{awsAccessKeyID": "MYKEYID","awsSecretAccessKey": "MYSECRETKEYID"}
+
+
 
 ### Version Control System (VCS) Env Vars&#x20;
 
@@ -47,11 +50,6 @@ description: >-
 * **Description**: Personal access token for the VCS provider specified. Allows the containerized executable to interact with the VCS provider to open a pull request containing new resources and needed migrations.
   * For GitHub, should only be provided "Repo" permissions.
 * **Example**: "ghp\_my-github-access-token"
-
-`DRAGONDROP_VCSUSER`
-
-* **Description**: Username of the account associated with the Version Control System.
-* **Example**: "MyUserName"
 
 ### Pull Request Env Vars
 
