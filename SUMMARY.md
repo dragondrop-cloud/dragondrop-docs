@@ -25,6 +25,7 @@
   * [AWS](deploying-to-your-cloud/infrastructure-requirements/aws.md)
   * [GCP](deploying-to-your-cloud/infrastructure-requirements/gcp.md)
 * [Environment Variables](deploying-to-your-cloud/environment-variables.md)
+* [Updating HTTPS Job Endpoints](deploying-to-your-cloud/updating-https-job-endpoints.md)
 * [FAQs](deploying-to-your-cloud/faqs.md)
 
 ## Setting Up CI/CD
