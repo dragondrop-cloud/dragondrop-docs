@@ -13,6 +13,7 @@
   * [How Many Jobs Should We Use?](getting-started/jobs/how-many-jobs-should-we-use.md)
   * [Creating a Job](getting-started/jobs/creating-a-job.md)
   * [Running a Job](getting-started/jobs/running-a-job.md)
+  * [Managed Drift Only Mode](getting-started/jobs/managed-drift-only-mode.md)
   * [Job Output](getting-started/jobs/job-output.md)
 * [Setting Up CI/CD](getting-started/setting-up-ci-cd.md)
 * [Supported Tech Stack](getting-started/supported-tech-stack.md)
