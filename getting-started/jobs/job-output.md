@@ -20,6 +20,12 @@ Each Pull Request outputs via a PR comment a "State of Cloud Report" which provi
 
 <figure><img src="../../.gitbook/assets/20230315_cloud_actor_screen_shot.png" alt=""><figcaption><p>Surfaced Cloud Actors responsible for changes outside of Terraform control.</p></figcaption></figure>
 
+### Drift Within Terraform-Managed Resources
+
+Cleaner than parsing `terraform plan`, each job outputs the specific resource attributes that have drifted for resources that are already managed by Terraform. If this is the only type of drift that your organization would like to identify and surface, that is [configurable within your job](managed-drift-only-mode.md).
+
+<figure><img src="../../.gitbook/assets/20230514 managed resource drift.png" alt=""><figcaption></figcaption></figure>
+
 ### Resource Cost Calculations
 
 Within the State of Cloud Report, as well as for individual resources, dragondrop provides detailed cost calculations. Provides users a single pane for their cloud costs (both controlled by Terraform and uncontrolled) within a Pull Request. Cost calculations are powered by a native [Infracost](https://github.com/infracost/infracost) integration.
