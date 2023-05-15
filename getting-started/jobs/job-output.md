@@ -31,3 +31,9 @@ Cleaner than parsing `terraform plan`, each job outputs the specific resource at
 Within the State of Cloud Report, as well as for individual resources, dragondrop provides detailed cost calculations. Provides users a single pane for their cloud costs (both controlled by Terraform and uncontrolled) within a Pull Request. Cost calculations are powered by a native [Infracost](https://github.com/infracost/infracost) integration.
 
 <figure><img src="../../.gitbook/assets/20230411 Monthly Cost Breakdown.png" alt=""><figcaption><p>Keep all cloud information in one place with cloud cost estimation built into every dragondrop Job execution.</p></figcaption></figure>
+
+### Security Risk Surfacing
+
+Identify for all scanned resources, by resource instance, security risks within your cloud.
+
+<figure><img src="../../.gitbook/assets/20230515 - Security Risk Idenitification.png" alt=""><figcaption><p>dragondrop can serve as a single pane for codification, drift detection, cost estimation, and security risk identification.</p></figcaption></figure>
