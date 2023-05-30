@@ -25,13 +25,6 @@ description: >-
 
 ### Scanning Your Cloud Env Vars
 
-* `DRAGONDROP_DIVISIONTOPROVIDER`
-  * **Description**: Mapping between the name of a division of a public cloud provider and the corresponding cloud provider name.
-    * A division for AWS is an account name, for Azure is a resource group, and for GCP is a project.
-    * Provider names must match the Terraform provider name (aws, azurern, google, etc.).
-  * **Structure**: "{divisionName1}:{provider1},...,{divisionNameN}:{provider1}"
-  * **Example**: "my-aws-project:aws,my-gcp-project:google"
-
 `DRAGONDROP_DIVISIONCLOUDCREDENTIALS`
 
 * **Description**: Mapping between the name of a division of a public cloud provider and the corresponding read-only credential.
@@ -50,15 +43,6 @@ description: >-
 * **Description**: Personal access token for the VCS provider specified. Allows the containerized executable to interact with the VCS provider to open a pull request containing new resources and needed migrations.
   * For GitHub, should only be provided "Repo" permissions.
 * **Example**: "ghp\_my-github-access-token"
-
-### Pull Request Env Vars
-
-`DRAGONDROP_WORKSPACETODIRECTORY`
-
-* **Description**: Map between Terraform Workspace name and the relative directory within the code repository where that workspace is defined via Terraform.
-* **Structure**: "{workSpace1}:/{relativeDirPath1},...,{workspaceN}:/{relativeDirPathN}"
-  * Each relative directory must start with a backslash and end without a backlash.
-* **Example**: "workspace-1:/path/to/workspace-one/,workspace-2:/path/to/workspace-two/"
 
 ### Terraform Cloud Env Vars
 
