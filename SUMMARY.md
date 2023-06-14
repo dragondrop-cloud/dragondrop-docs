@@ -24,6 +24,7 @@
 * [Infrastructure Requirements](deploying-to-your-cloud/infrastructure-requirements/README.md)
   * [Requirements](deploying-to-your-cloud/infrastructure-requirements/requirements.md)
   * [AWS](deploying-to-your-cloud/infrastructure-requirements/aws.md)
+  * [Azure](deploying-to-your-cloud/infrastructure-requirements/azure.md)
   * [GCP](deploying-to-your-cloud/infrastructure-requirements/gcp.md)
 * [Environment Variables](deploying-to-your-cloud/environment-variables.md)
 * [Updating HTTPS Job Endpoints](deploying-to-your-cloud/updating-https-job-endpoints.md)

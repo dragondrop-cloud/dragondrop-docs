@@ -14,7 +14,7 @@ We strongly recommend using our [Terraform Module](https://registry.terraform.io
 
 It creates a Cloud Run Service instance with a new service principal that can only update and invoke Cloud Run Jobs. Further, it provisions the needed Cloud Run Job, complete with all needed environment variable keys (you need to still add the values to Google Secret Manager). The Cloud Run Service instance uses our open-sourced [Flask API service](https://github.com/dragondrop-cloud/cloud-run-job-http-trigger) container, whereas the Cloud Run Job uses our proprietary dragondrop.cloud container. All you need to do is fill in the environment variables needed for the Cloud Run Job, and then cloud infrastructure for that Job is complete!
 
-Using our Terraform module, we estimate that most Jobs can be **deployed within your cloud environment from scratch in less than 45 minutes of developer time**.
+Using our Terraform module, we estimate that most Jobs can be **deployed within your cloud environment from scratch in less than 30 minutes of developer time**.
 
 ### Building Your Own Hosting Infrastructure in GCP
 

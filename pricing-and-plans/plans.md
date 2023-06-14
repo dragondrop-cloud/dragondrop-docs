@@ -1,23 +1,23 @@
 # Plans
 
-### Billable Unit
-
-The billable unit when using dragondrop is the number of defined [Jobs](../getting-started/jobs/what-is-a-job.md).
-
 ### Plans
+
+#### OSS
+
+_Coming soon!_
 
 #### Forever Free Tier
 
-The first provisioned Job is and is forever free to use for all customers.
+Define and manage a single Job forever free to use for all customers. Community-based customer support.
 
-#### A-la-carte Jobs
+**Start-Up**
 
-$50 / month per provisioned Job. Email based, 48-hour customer support.
+Unlimited job configuration and managed via the dragondrop platform. Email based, customer support. $50 / month or $500 / year.
 
-#### Enterprise Jobs
+**Business**
 
-These jobs include an SLA, and same-day response customer support through either Slack, Email or Phone. Enterprise customers can also access our professional services and bulk-rate discounts. [Let's talk](https://calendly.com/d/zyh-3c8-yyh/demo-of-dragondrop-cloud)!
+Unlimited job configuration and management, along with access to "Cloud Perch", our cloud visualization platform. $400 / month or $4,000 / year.
 
-**Annual Billing Rates**
+#### Enterprise Support
 
-Annual billing is available, starting at $500 / year per a-la-carte job. For annual enterprise plans, [let's talk](https://calendly.com/d/zyh-3c8-yyh/demo-of-dragondrop-cloud)!
+Everything in the business tier, with options that include same-day response customer support through either Slack, Email or Phone and SLAs. [Let's talk](https://calendly.com/d/zyh-3c8-yyh/demo-of-dragondrop-cloud)!
