@@ -4,7 +4,7 @@ description: A rare, but easy, occurence
 
 # Updating HTTPS Job Endpoints
 
-We anticipate needing to this very rarely, and have recently re-architected our product to ensure this is unlikely to occur for the forseable future. That being said, it is possible we will release changes to HTTPS endpoint code. These updates can be brought into your clud as follows:
+We anticipate needing to do this very rarely, and have recently re-architected our product to ensure this is unlikely to occur for the forseable future. That being said, it is possible we will release changes to HTTPS endpoint code. These updates can be brought into your cloud as follows:
 
 ## AWS
 
