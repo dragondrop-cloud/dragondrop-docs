@@ -10,7 +10,7 @@ We anticipate needing to do this very rarely, and have recently re-architected o
 
 **OSS Code Repository**: [https://github.com/dragondrop-cloud/ecs-fargate-task-http-trigger](https://github.com/dragondrop-cloud/ecs-fargate-task-http-trigger)
 
-1\) Navigate to the dragondrop-created lambda trigger, and select "Upload from" --> "Amazon S# location"
+1\) Navigate to the dragondrop-created lambda trigger, and select "Upload from" --> "Amazon S3 location"
 
 <figure><img src="../.gitbook/assets/20230508 Update Lambda Screenshot.png" alt=""><figcaption></figcaption></figure>
 
