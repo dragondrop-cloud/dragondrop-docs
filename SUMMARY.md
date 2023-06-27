@@ -5,9 +5,10 @@
 ## Getting Started
 
 * [How dragondrop Works](getting-started/how-dragondrop-works.md)
+* [Cloud Footprint Visualizations](getting-started/cloud-footprint-visualizations.md)
 * [Signing Up](getting-started/signing-up.md)
 * [🔒 Security](getting-started/security.md)
-* [Hosted in Your Cloud](getting-started/hosted-in-your-cloud.md)
+* [Self-Hosted Runners](getting-started/hosted-in-your-cloud.md)
 * [Jobs](getting-started/jobs/README.md)
   * [What is a Job?](getting-started/jobs/what-is-a-job.md)
   * [How Many Jobs Should We Use?](getting-started/jobs/how-many-jobs-should-we-use.md)
@@ -37,7 +38,6 @@
 ## Pricing & Plans
 
 * [Plans](pricing-and-plans/plans.md)
-* [Pricing Philosophy](pricing-and-plans/pricing-philosophy.md)
 * [FAQs](pricing-and-plans/faqs.md)
 
 ## Trouble Shooting

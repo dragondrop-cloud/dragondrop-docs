@@ -16,7 +16,7 @@ It creates all of infrastructure illustrated in the above diagram, with locked-d
 
 Using our Terraform module, we estimate that Jobs can be **deployed within your cloud environment from scratch in less than 30 minutes of developer time**.
 
-### Building Your Own Hosting Infrastructure in AWS
+### Building Your Own Hosting Infrastructure in Azure
 
 We do not provide customer service for infrastructure hosting dragondrop created outside of our modules, and so strongly recommend using our [Terraform Module](https://registry.terraform.io/modules/dragondrop-cloud/dragondrop-compute/aws/latest) to provision the infrastructure needed. That being said, Azure makes it possible for you to provide serverless compute to dragondrop's container if you want to build your own set up.&#x20;
 
@@ -24,6 +24,6 @@ Our recommended approach:
 
 1\) Define an Azure container instance that hosts the dragondrop container.
 
-2\) Define an HTTPS endpoint that triggers the ECS Fargate task, likely using an Azure Container App or an Azure Function.
+2\) Define an HTTPS endpoint that triggers the Azure Container Instance or Azure Container App Job, likely using an Azure Container App or an Azure Function.
 
 3\) Provide the API endpoint to your dragondrop [job definition](../../getting-started/jobs/creating-a-job.md). Done!

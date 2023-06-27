@@ -4,7 +4,7 @@ Note that "external resource" refers to a cloud resource that is outside of Terr
 
 ### New Terraform Code for External Resources
 
-Each identified external resource has Terraform code generated for it and placed into the directory associated with the workspace that dragondrop has identified as most appropriate for the resource. This new Terraform code is generated in a file called "dragondrop.tf", allowing you to take the configuration and place it within your organized Terraform files with desired syntax modifications (modules, loops, etc.). At the top of each resource is information on the Cloud Actor who created and most recently modified the resource.
+Each identified external resource has Terraform code generated for it and placed into the directory associated with the workspace that dragondrop has identified as most appropriate for the resource. This new Terraform code is generated in a file called "new-resources.tf", allowing you to take the configuration and place it within your organized Terraform files with desired syntax modifications (modules, loops, etc.). At the top of each resource is information on the Cloud Actor who created and most recently modified the resource.
 
 <figure><img src="../../.gitbook/assets/202230315_resource_output.png" alt=""><figcaption><p>New Terraform Code for external resources, along with the service principals and users that created the resources in the first place.</p></figcaption></figure>
 

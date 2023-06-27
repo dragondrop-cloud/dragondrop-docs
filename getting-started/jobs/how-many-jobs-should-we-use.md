@@ -1,14 +1,14 @@
 ---
-description: Best practices for using dragondrop Jobs to cover your cloud
+description: Best practices for using managed Jobs to cover your cloud
 ---
 
 # How Many Jobs Should We Use?
 
 ### Recommended Job Segmentations
 
-We recommend creating one Job per logical grouping of infrastructure. This allows dragondrop recommendations for different infrastructure groupings to be assigned to relevant engineers with expertise in that particular grouping, and keeps recommendations relevant and focused for those reviewing them.
+We recommend creating one Job per logical grouping of infrastructure. This allows [cloud-concierge](https://github.com/dragondrop-cloud/cloud-concierge) recommendations for different infrastructure groupings to be assigned to relevant engineers with expertise in that particular grouping, and keeps recommendations relevant and focused for those reviewing them.
 
-Some examples of infrastructure groupings for assigning dragondrop jobs:
+Some examples of infrastructure groupings for assigning cloud-concierge jobs:
 
 * Infrastructure segmented by application.
 * Infrastructure segmented by managing team.
@@ -17,9 +17,8 @@ Some examples of infrastructure groupings for assigning dragondrop jobs:
 
 ### Hard Restrictions
 
-The only hard restriction is that a single dragondrop job can only output recommendations and results to a single repository in your version control system.
+The only hard restriction is that a single cloud-concierge container can only output recommendations and results to a single repository in your version control system.
 
 ### No Restrictions
 
-* An unlimited number of users for your dragondrop organization.
 * A Job can be run an unlimited number of times each month.

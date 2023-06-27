@@ -4,6 +4,8 @@ description: CI/CD Support within GitHub Actions Pipelines.
 
 # GitHub Action
 
+### Note: You can [skip this section](../getting-started/setting-up-ci-cd.md#terraform-post-1.5.0) if running your managed cloud-concierge containers with Terraform v1.5.0 or greater
+
 Set up our [GitHub Action](https://github.com/dragondrop-cloud/github-action-tfstate-migration) within the code repositories in which dragondrop will be opening Pull Requests.  but at a high-level the CI/CD job performs the following operations:
 
 * Install your desired version of Terraform

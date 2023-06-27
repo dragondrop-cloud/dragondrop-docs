@@ -27,3 +27,15 @@ https://dragondrop-ecs-fargate-task-lambda-trigger-prod.s3.amazonaws.com/dragond
 <figure><img src="../.gitbook/assets/20230508 Update Cloud Run Service.png" alt=""><figcaption></figcaption></figure>
 
 2\) Without making any changes, scroll to the bottom of the page and hit "Deploy". When using our Terraform module, the container for the cloud service is specified with the `:latest` tag, so this deployment will pull in the newest version of the repo's production container.
+
+## Azure
+
+**OSS Code Repository**: [https://github.com/dragondrop-cloud/container-instance-http-trigger](https://github.com/dragondrop-cloud/container-instance-http-trigger)
+
+1\) Within the Container App instance hosting your dragondrop endpoint, click "Edit and Deploy"
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+2\) Create a "dummy" variable on the container, save and re-deploy. THis deployment will pull in the latest version of the repo's production container.
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
