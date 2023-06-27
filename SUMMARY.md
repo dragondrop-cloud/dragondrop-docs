@@ -5,7 +5,6 @@
 ## Getting Started
 
 * [How dragondrop Works](getting-started/how-dragondrop-works.md)
-* [Cloud Footprint Visualizations](getting-started/cloud-footprint-visualizations.md)
 * [Signing Up](getting-started/signing-up.md)
 * [🔒 Security](getting-started/security.md)
 * [Self-Hosted Runners](getting-started/hosted-in-your-cloud.md)
@@ -19,6 +18,7 @@
 * [Setting Up CI/CD](getting-started/setting-up-ci-cd.md)
 * [Supported Tech Stack](getting-started/supported-tech-stack.md)
 * [Schedule a Demo](getting-started/schedule-a-demo.md)
+* [Cloud Footprint Visualizations](getting-started/cloud-footprint-visualizations.md)
 
 ## Deploying To Your Cloud
 

@@ -12,7 +12,7 @@ Define and manage a single cloud-concierge instance forever free to use for all 
 
 **Start-Up**
 
-6 managed cloud-concierge instances and 2 users on the dragondrop platform. Email-based customer support. $20 / month or $200 / year.
+3 managed cloud-concierge instances and 3 users on the dragondrop platform. Email-based customer support. $25 / month or $250 / year.
 
 **Growth**
 
@@ -20,7 +20,7 @@ Unlimited managed cloud-concierge instances and unlimited users. 72-hour custome
 
 **Business**
 
-Everything in Growth, along with "Cloud Perch", our cloud visualization platform allowing for analysis for costs, drift, and security issues across time and managed cloud-concierge instances. $400 / month or $4,000 / year.
+Everything in Growth, along with "[Cloud Perch](../getting-started/cloud-footprint-visualizations.md)", our cloud visualization platform allowing for analysis for costs, drift, and security issues across time and managed cloud-concierge instances. $400 / month or $4,000 / year.
 
 #### Enterprise Support
 
