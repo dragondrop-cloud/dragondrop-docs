@@ -16,11 +16,11 @@ Define and manage a single cloud-concierge instance forever free to use for all 
 
 **Growth**
 
-Unlimited managed cloud-concierge instances and unlimited users. 72-hour customer support. $100 / month or $1,000 / year.
+Unlimited managed cloud-concierge instances and unlimited users. 72-hour customer support. $150 / month or $1,500 / year.
 
 **Business**
 
-Everything in Growth, along with "[Cloud Perch](../getting-started/cloud-footprint-visualizations.md)", our cloud visualization platform allowing for analysis for costs, drift, and security issues across time and managed cloud-concierge instances. $400 / month or $4,000 / year.
+Everything in Growth, along with "[Cloud Perch](../getting-started/cloud-footprint-visualizations.md)", our cloud visualization platform allowing for analysis for costs, drift, and security issues across time and managed cloud-concierge instances. $300 / month or $3,000 / year.
 
 #### Enterprise Support
 
