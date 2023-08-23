@@ -20,7 +20,7 @@ The entire cloud-concierge container code is open sourced and availble for viewi
 
 ### (2) cloud-concierge only requires read-only permissions for your cloud environment.
 
-When generating service principals for dragondrop to be able to complete the requisite cloud scanning, only read-only permissions should be granted.
+When generating service principals for dragondrop to be able to complete the requisite cloud scanning, only read-only permissions should be granted to your cloud environment and the provider remote buckets that store Terraform state files.
 
 ### (3) Changes are recommended via Pull Request, never made directly.
 
@@ -28,3 +28,4 @@ The dragondrop container will never directly make changes to your Terraform code
 
 * Like all other code, your developers have final sign-off and approval into whether or not to merge the suggestions.
 * Comments, discussions and changes to the original dragondrop suggestions are all recorded within your VCS.
+
