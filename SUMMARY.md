@@ -5,9 +5,9 @@
 ## Getting Started
 
 * [How dragondrop Works](getting-started/how-dragondrop-works.md)
-* [Signing Up](getting-started/signing-up.md)
 * [🔒 Security](getting-started/security.md)
 * [Self-Hosted Runners](getting-started/hosted-in-your-cloud.md)
+* [Cloud Perch - Cloud Footprint Visualizations](getting-started/cloud-perch-cloud-footprint-visualizations.md)
 * [Jobs](getting-started/jobs/README.md)
   * [What is a Job?](getting-started/jobs/what-is-a-job.md)
   * [How Many Jobs Should We Use?](getting-started/jobs/how-many-jobs-should-we-use.md)
@@ -17,8 +17,8 @@
   * [Job Output](getting-started/jobs/job-output.md)
 * [Setting Up CI/CD](getting-started/setting-up-ci-cd.md)
 * [Supported Tech Stack](getting-started/supported-tech-stack.md)
+* [Signing Up](getting-started/signing-up.md)
 * [Schedule a Demo](getting-started/schedule-a-demo.md)
-* [Cloud Footprint Visualizations](getting-started/cloud-footprint-visualizations.md)
 
 ## Deploying To Your Cloud
 

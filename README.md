@@ -1,5 +1,7 @@
 ---
-description: dragondrop.cloud is a managed offering for the cloud-concierge OSS tool.
+description: >-
+  dragondrop.cloud is a managed offering for the cloud-concierge OSS tool that
+  enables its output to serve as an enterprise cloud management platform.
 ---
 
 # Welcome
@@ -18,7 +20,7 @@ cloud-concierge is an OSS container that allows you to layer functionality on to
 
 ### Why a managed offering?
 
-cloud-concierge works well when configuring a single execution of the cloud-concierge container. Updating and maintaining multiple environment variable files to configure cloud-concierge is not tractible or enjoyable, and it is difficult to manage scheduled executions for multiple configurations.
+cloud-concierge works well when running one instance at a time. As coverage across a cloud environment scales, however, updating and maintaining multiple environment variable files to configure cloud-concierge is not tractible or enjoyable. Furthermore, at any scale it can be difficult to manage scheduled executions for multiple configurations.
 
 dragondrop.cloud makes managing multiple cloud-concierge instances and corresponding execution schedules possible through a user-interface, while still maintaining the self-hosted set up of cloud-concierge.
 

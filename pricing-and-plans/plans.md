@@ -20,7 +20,7 @@ Unlimited managed cloud-concierge instances and unlimited users. 72-hour custome
 
 **Business**
 
-Everything in Growth, along with "[Cloud Perch](../getting-started/cloud-footprint-visualizations.md)", our cloud visualization platform allowing for analysis for costs, drift, and security issues across time and managed cloud-concierge instances. $300 / month or $3,000 / year.
+Everything in Growth, along with "[Cloud Perch](../getting-started/cloud-perch-cloud-footprint-visualizations.md)", our cloud visualization platform allowing for analysis for costs, drift, and security issues across time and managed cloud-concierge instances. $300 / month or $3,000 / year.
 
 #### Enterprise Support
 
