@@ -14,14 +14,6 @@ description: >-
 
 ## Variable Descriptions
 
-### Version Control System (VCS) Env Vars&#x20;
-
-`CONCIERGE_VCSTOKEN`
-
-* **Description**: Personal access token for the VCS provider specified. Allows the containerized executable to interact with the VCS provider to open a pull request containing new resources and needed migrations.
-  * For GitHub, should only be provided "Repo" permissions.
-* **Example**: "ghp\_my-github-access-token"
-
 ### Terraform Cloud Env Vars  (if selected as your state backend)
 
 `CONCIERGE_TERRAFORMCLOUDTOKEN`
